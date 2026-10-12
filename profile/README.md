@@ -3,7 +3,7 @@
 </p>
 
 <p align="center"><b>Servidor de Minecraft en español</b> · Survival · SkyBlock · Zeres Cobblemon</p>
-<p align="center"><code>mc.zeres.fun</code></p>
+<p align="center"><code>zerescobblemon.holy.gg</code></p>
 
 ---
 
